@@ -31,7 +31,7 @@ I have worked on diverse projects ranging from large-scale enterprise solutions 
 ## 🔧 **Languages and Tools**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot 3](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -59,7 +59,7 @@ A Back End Service built Spring Boot.
 
 I'm always interested in new opportunities and collaborations! Feel free to reach out:
 
-- LinkedIn: abdelrahman-shokair(https://www.linkedin.com/in/abdelrahman-shokair-b238aa27b)
+- LinkedIn: [abdelrahman-shokair](https://www.linkedin.com/in/abdelrahman-shokair-b238aa27b)
 - Email: aeshokair@gmail.com
 
 ---
