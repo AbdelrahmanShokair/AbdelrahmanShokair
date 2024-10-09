@@ -1,10 +1,10 @@
-# 👋 Hi, I'm [Abdelrahman Essam Shokair]
+# 👋 Hi, I'm Abdelrahman Essam Shokair
 
 **Welcome to my GitHub profile!** I'm a passionate software engineer with expertise in building scalable microservices, cloud-native solutions, and full-stack web applications. I love solving complex problems and learning new technologies to stay at the cutting edge of software development.
 
-- 🌱 Currently learning: [Montoring and Tracing with spring boot 3]
-- 💼 Open to work: [Back End Developer]
-- 💬 Ask me about: Java, Spring Boot, Docker, Kubernetes, Kafka, Microservices, CI/CD, Cloud Computing, and more.
+- 🌱 Currently learning: Montoring and Tracing with spring boot 3
+- 💼 Open to work: Back End Developer
+- 💬 Ask me about: Java, Spring Boot, Docker, Kubernetes, Kafka, Microservices, AWS, Docker Hub, and more.
 
 ---
 
@@ -59,7 +59,7 @@ A Back End Service built Spring Boot.
 
 I'm always interested in new opportunities and collaborations! Feel free to reach out:
 
-- LinkedIn: [abdelrahman-shokair](www.linkedin.com/in/abdelrahman-shokair-b238aa27b)
+- LinkedIn: abdelrahman-shokair(https://www.linkedin.com/in/abdelrahman-shokair-b238aa27b)
 - Email: aeshokair@gmail.com
 
 ---
